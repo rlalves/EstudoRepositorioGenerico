@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\obj\Debug\Cv2.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\Cv2.Persistencia.dll.config
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\Cv2.Persistencia.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\Cv2.Persistencia.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\Cv2.Dominio.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\Cv2.Dominio.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\obj\Debug\Cv2.Persistencia.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Persistencia\obj\Debug\Cv2.Persistencia.pdb

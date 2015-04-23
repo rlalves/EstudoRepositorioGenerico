@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Excecao\bin\Debug\Cv2.Transversal.Excecao.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Excecao\bin\Debug\Cv2.Transversal.Excecao.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Excecao\bin\Debug\Cv2.Transversal.Log.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Excecao\bin\Debug\Cv2.Transversal.Log.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Excecao\obj\Debug\Cv2.Transversal.Excecao.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Excecao\obj\Debug\Cv2.Transversal.Excecao.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Excecao\obj\Debug\Cv2.Transversal.Excecao.pdb

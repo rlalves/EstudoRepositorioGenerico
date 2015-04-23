@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\bin\Debug\Cv2.Transversal.Teste.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\bin\Debug\Cv2.Transversal.Teste.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\obj\Debug\Cv2.Transversal.Teste.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\obj\Debug\Cv2.Transversal.Teste.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\obj\Debug\Cv2.Transversal.Teste.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\bin\Debug\Cv2.Dominio.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\bin\Debug\Moq.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\bin\Debug\Cv2.Dominio.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Teste\bin\Debug\Moq.xml

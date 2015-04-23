@@ -1,0 +1,5 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Log\bin\Debug\Cv2.Transversal.Log.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Log\bin\Debug\Cv2.Transversal.Log.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Log\obj\Debug\Cv2.Transversal.Log.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Log\obj\Debug\Cv2.Transversal.Log.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\Cv2\Cv2.Transversal.Log\obj\Debug\Cv2.Transversal.Log.csprojResolveAssemblyReference.cache
